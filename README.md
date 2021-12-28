@@ -8,18 +8,17 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31bvg3wront7ddphslihvvtofufa)
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31zee2vfa5lavbxpx4rokn6zqp2e)
 
-<!-- [<img src="https://becongspotify-git-master.phamtienthanhcong.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />] -->
 
 ---
 
 
 ### Connect with me:
-[<img align="left" alt="PhamTienThanhCong | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="PhamTienThanhCong | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
-[<img align="left" alt="PhamTienThanhCong | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="PhamTienThanhCong | tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
+[<img align="left" alt="DinhVanThuc | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
+[<img align="left" alt="DinhVanThuc | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
+[<img align="left" alt="DinhVanThuc | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
+[<img align="left" alt="DinhVanThuc | tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
 
 <br />
 
@@ -48,7 +47,7 @@
 ```text
 Week: 20 December, 2021 - 26 December, 2021
 
-HTML   8 mins          █████████████████████████   100.00 % 
+HTML   1000 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -56,15 +55,15 @@ HTML   8 mins          ███████████████████
 
 ### GitHub Stats Card
 
-| <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhamTienThanhCong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTienThanhCong&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
+| <a href="https://github.com/DinhVanThuc1308"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DinhVanThuc1308&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/DinhVanThuc1308"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhVanThuc1308&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
 
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
-[facebook]: https://www.facebook.com/phamtienthanhcong
-[linkedin]: linkedin.com/in/phamtienthanhcong 
-[zalo]: https://zalo.me/0396396332
-[tiktok]: https://www.tiktok.com/@phamtienthanhcong
-[web]: https://github.com/PhamTienThanhCong/web_dev
-[min project]: https://github.com/PhamTienThanhCong/Project-Of-Web
-[c and cpp]: https://github.com/PhamTienThanhCong/Code_C_and_Cpro
-[python]: https://github.com/PhamTienThanhCong/Python_beginer
+[facebook]: https://www.facebook.com/dinhvanthuc1308
+[linkedin]: https://www.facebook.com/dinhvanthuc1308
+[zalo]: https://zalo.me/0934309001
+[tiktok]: https://www.tiktok.com/@phuong_bee306
+[web]: https://www.facebook.com/dinhvanthuc1308
+[min project]: https://github.com/DinhVanThuc1308
+[c and cpp]: https://github.com/DinhVanThuc1308
+[python]: https://github.com/DinhVanThuc1308
